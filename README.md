@@ -7,7 +7,6 @@ To play this game you have to enter the row and column number respectively where
 
 Game Snippets
 
-![TicTac](https://user-images.githubusercontent.com/93431609/162573305-2114064e-4249-4310-a085-d36dd7419181.png)
 
-![tt](https://user-images.githubusercontent.com/93431609/162573310-ccf4e078-5bf2-4078-8ba3-a075399eb89e.png)
-
+ ​<p align="center"><img src="https://user-images.githubusercontent.com/93431609/162573305-2114064e-4249-4310-a085-d36dd7419181.png" /></p>
+ <p align="center"><img src="https://user-images.githubusercontent.com/93431609/162573310-ccf4e078-5bf2-4078-8ba3-a075399eb89e.png" /></p>
